@@ -1,0 +1,41 @@
+body{
+background: #f0f0f0;
+font-family: Arial;
+}
+
+#wrapper{
+width:1000px;
+margin:10px auto;
+}
+
+#header{
+background:#4CAF50;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+#sidebar{
+width:300px;
+float:left;
+background:#ddd;
+padding:10px;
+}
+
+#content{
+width:700px;
+float:left;
+background:#fff;
+padding:10px;
+}
+
+#footer{
+background:#333;
+color:white;
+text-align:center;
+padding:10px;
+}
+
+.clearfix{
+clear:both;
+}
